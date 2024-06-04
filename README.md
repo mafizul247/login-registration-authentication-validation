@@ -64,9 +64,7 @@ This repository contains an implementation of a login and registration system wi
 
 Check out the live demo of the project [here](https://login-registration-authentication.netlify.app/).
 
-## Live Demo
 
-Check out the GitHub Repository [here](https://github.com/mafizul247/login-registration-authentication-validation.git).
 
 
 
